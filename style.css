@@ -1,0 +1,21 @@
+.v-head{
+}
+body{
+    background-color: black;
+    color: white;
+} 
+.temp-border{
+    border: 2px solid yellow;
+}
+.main{
+    min-height:150px ;
+    margin: 0%;
+}
+ul{
+    list-style: none;
+}
+@media only screen and (max-width:600px) {
+    .main{
+        min-height: 220px;
+    }
+  }
